@@ -1,5 +1,3 @@
-![](https://github.com/theSarjen/theSarjen/blob/main/github-header-image.png)
-
 ## Hey, I'm Sarjen 👋
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&height=180&section=header&text=Sarajen%20Subramani&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Emerging%20Data%20Scientist%20%7C%20Mathematician%20%7C%20Creative%20Problem%20Solver&descAlignY=62&descSize=16"/>
