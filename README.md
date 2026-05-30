@@ -11,7 +11,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarajen369&color=70a5fd&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/sarajen369?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/sarajen369)
+[![GitHub followers](https://img.shields.io/github/followers/theSarjen?style=flat-square&color=70a5fd&logo=github&logoColor=white)](https://github.com/theSarjen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sarajen369-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarajen369)
 [![Email](https://img.shields.io/badge/Email-sarajen.subramani%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sarajen.subramani@gmail.com)
 
