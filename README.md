@@ -1,4 +1,4 @@
-![](https://github.com/theSarjen/SARAJEN/blob/main/github-header-image.png)
+![](https://github.com/theSarjen/theSarjen/blob/main/github-header-image.png)
 
 ## Hey, I'm Sarjen 👋
 
